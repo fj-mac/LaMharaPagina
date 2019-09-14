@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "cd ./front && yarn run build",
     "start": "node ./bin/www"
   },
   "dependencies": {
